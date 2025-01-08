@@ -1,5 +1,5 @@
 # Few Shot Language Agnostic Keyword Spotting System
-This proposal was submitted as a part of the [Smart India Hackathon 2024](https://www.sih.gov.in/) which is is a premier nationwide initiative designed to engage students in solving some of the most pressing challenges faced in everyday life.
+This proposal was submitted as a part of the [Smart India Hackathon 2024](https://www.sih.gov.in/) which is is a premier nationwide initiative designed to engage students in solving some of the most pressing challenges faced in everyday life. (Currently this is a WIP)
 
 ![SIH Main Slide](img/main_slide.png)
 
